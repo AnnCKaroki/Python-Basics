@@ -12,3 +12,10 @@
 * Naming Conventions
 * Scope
 
+2. Data Types
+
+* Number types
+* Sequence types
+* Mapping types
+* Boolean types
+* Set types
