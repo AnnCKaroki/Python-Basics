@@ -6,4 +6,9 @@
 
 ## Content Covered:
 
-1. VariablesS
+1. Variables
+
+* Meaning
+* Naming Conventions
+* Scope
+
