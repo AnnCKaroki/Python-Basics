@@ -27,3 +27,9 @@
 * Adding values (+)
 * Deleting values (del, pop, remove)
 
+4. Functions and packages
+* Meaning
+* Usage - declaration and calls
+* Methods - str, list
+* Packages - import, modules
+
