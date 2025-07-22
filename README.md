@@ -19,3 +19,11 @@
 * Mapping types
 * Boolean types
 * Set types
+
+3. List Manipulation
+
+* Subsetting a list (zero and negative indexing)
+* Replacing values
+* Adding values (+)
+* Deleting values (del, pop, remove)
+
