@@ -33,3 +33,7 @@
 * Methods - str, list
 * Packages - import, modules
 
+5. Programming paradigms
+- Definition of paradigms
+- Examples
+- Importance
