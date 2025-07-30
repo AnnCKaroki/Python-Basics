@@ -37,3 +37,9 @@
 - Definition of paradigms
 - Examples
 - Importance
+
+6. Procedural programming
+
+7. Functional programming
+- Pure functions
+- Recursion
