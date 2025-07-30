@@ -43,3 +43,8 @@
 7. Functional programming
 - Pure functions
 - Recursion
+
+8. Object Oriented Programming
+- Definition
+- Inheritance
+- Polymorphism
